@@ -1,0 +1,36 @@
+{
+  "name": "amazexcodepresentation",
+  "displayName": "AmazeXcodePresentation",
+  "publisher": "atacan",
+  "description": "Xcode presentation theme with catpuccin flavors",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "extensionKind": [
+    "ui",
+    "workspace"
+  ],
+  "capabilities": {
+    "untrustedWorkspaces": {
+      "supported": true
+    },
+    "virtualWorkspaces": true
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Amaze Swift Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Amaze Swift-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/atacan/AmazeSwiftForVSCode"
+  }
+}
