@@ -3,7 +3,7 @@
   "displayName": "AmazeXcodePresentation",
   "publisher": "atacan",
   "description": "Xcode presentation theme with catpuccin flavors",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.76.0"
   },
@@ -32,5 +32,6 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/atacan/AmazeSwiftForVSCode"
-  }
+  },
+  "license": "MIT"
 }
