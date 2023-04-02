@@ -47,7 +47,10 @@
         "storage.type.subscript.swift",
         "storage.type.swift",
         "storage.type.typealias.swift",
-        "storage.type.variable.swift"
+        "storage.type.variable.swift",
+        "keyword.control.branch.swift",
+        "keyword.control.async.swift",
+        "keyword.operator.type.swift"
       ],
       "settings": {
         "foreground": "#f7439d"
