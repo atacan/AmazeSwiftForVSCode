@@ -75,7 +75,8 @@
       "scope": [
         "string.quoted.double.single-line.swift",
         "punctuation.definition.string.begin.swift",
-        "punctuation.definition.string.end.swift"
+        "punctuation.definition.string.end.swift",
+        "string.quoted.double.block.raw.swift"
       ],
       "settings": {
         "foreground": "#FF5F63"
@@ -180,8 +181,7 @@
         "keyword.control.case"
       ],
       "settings": {
-        "foreground": "#f38ba8",
-        "fontStyle": "bold"
+        "foreground": "#f38ba8"
       }
     },
     {
@@ -221,8 +221,7 @@
         "keyword.operator.namespace"
       ],
       "settings": {
-        "foreground": "#89dceb",
-        "fontStyle": "bold"
+        "foreground": "#89dceb"
       }
     },
     {
@@ -481,8 +480,7 @@
         "keyword.operator.attribute.inner.rust"
       ],
       "settings": {
-        "foreground": "#94e2d5",
-        "fontStyle": "bold"
+        "foreground": "#94e2d5"
       }
     },
     {
@@ -532,16 +530,14 @@
       "name": "Lua operators",
       "scope": "keyword.operator.lua",
       "settings": {
-        "foreground": "#89dceb",
-        "fontStyle": "bold"
+        "foreground": "#89dceb"
       }
     },
     {
       "name": "Lua numeric",
       "scope": "constant.numeric.integer.lua",
       "settings": {
-        "foreground": "#fab387",
-        "fontStyle": "bold"
+        "foreground": "#fab387"
       }
     },
     {
@@ -566,8 +562,7 @@
       "name": "C++ Puct Delimeters",
       "scope": "punctuation.terminator.statement.cpp",
       "settings": {
-        "foreground": "#94e2d5",
-        "fontStyle": "bold"
+        "foreground": "#94e2d5"
       }
     },
     {
@@ -585,8 +580,7 @@
         "punctuation.separator.scope-resolution.namespace.using.cpp"
       ],
       "settings": {
-        "foreground": "#89dceb",
-        "fontStyle": "bold"
+        "foreground": "#89dceb"
       }
     },
     {
@@ -664,8 +658,7 @@
         "keyword.control.case"
       ],
       "settings": {
-        "foreground": "#cba6f7",
-        "fontStyle": "bold"
+        "foreground": "#cba6f7"
       }
     },
     {
@@ -907,8 +900,7 @@
       "name": "operator logical",
       "scope": ["keyword.operator.logical", "keyword.operator.ternary"],
       "settings": {
-        "foreground": "#89dceb",
-        "fontStyle": "bold"
+        "foreground": "#89dceb"
       }
     },
     {
@@ -1080,8 +1072,7 @@
         "keyword.operator.relational"
       ],
       "settings": {
-        "foreground": "#89dceb",
-        "fontStyle": "bold"
+        "foreground": "#89dceb"
       }
     },
     {
@@ -1097,8 +1088,7 @@
         "keyword.operator.bitwise.shift.cpp"
       ],
       "settings": {
-        "foreground": "#89dceb",
-        "fontStyle": "bold"
+        "foreground": "#89dceb"
       }
     },
     {
@@ -1171,8 +1161,7 @@
       "name": "Operators",
       "scope": "keyword.operator",
       "settings": {
-        "foreground": "#89dceb",
-        "fontStyle": "bold"
+        "foreground": "#89dceb"
       }
     },
     {
@@ -2450,8 +2439,7 @@
       "name": "python keyword flow",
       "scope": "keyword.control.flow.python",
       "settings": {
-        "foreground": "#cba6f7",
-        "fontStyle": "bold"
+        "foreground": "#cba6f7"
       }
     },
     {
