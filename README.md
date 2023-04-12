@@ -4,4 +4,4 @@ This is a theme for VS Code that is based on the Xcode Presentation theme and Ca
 
 For the Swift language the token colors are from Xcode and the background color is from Catpuccin Mocha theme.
 
-For the other languages it just copies from the Catpuccin Mocha theme.
+For the other languages it just copies the token configuration from the Catpuccin Mocha theme.
