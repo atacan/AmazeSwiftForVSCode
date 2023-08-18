@@ -140,8 +140,7 @@
       "name": "All function",
       "scope": ["entity.name.function", "support.function"],
       "settings": {
-        "foreground": "#89b4fa",
-        "fontStyle": "italic"
+        "foreground": "#89b4fa"
       }
     },
     {
@@ -151,8 +150,7 @@
         "variable.parameter.function-call"
       ],
       "settings": {
-        "foreground": "#f5c2e7",
-        "fontStyle": "italic"
+        "foreground": "#f5c2e7"
       }
     },
     {
@@ -228,8 +226,7 @@
       "name": "All built-in constants",
       "scope": "constant.language",
       "settings": {
-        "foreground": "#b4befe",
-        "fontStyle": "italic"
+        "foreground": "#b4befe"
       }
     },
     {
@@ -407,8 +404,7 @@
       "name": "Rust functions",
       "scope": "entity.name.function.rust",
       "settings": {
-        "foreground": "#89b4fa",
-        "fontStyle": "italic"
+        "foreground": "#89b4fa"
       }
     },
     {
@@ -508,8 +504,7 @@
       "name": "Rust variable",
       "scope": ["variable.language.rust", "variable.other.rust"],
       "settings": {
-        "foreground": "#cdd6f4",
-        "fontStyle": "italic"
+        "foreground": "#cdd6f4"
       }
     },
     {
@@ -544,8 +539,7 @@
       "name": "Lua other vars",
       "scope": "variable.other.lua",
       "settings": {
-        "foreground": "#b4befe",
-        "fontStyle": "italic"
+        "foreground": "#b4befe"
       }
     },
     {
@@ -608,8 +602,7 @@
         "punctuation.definition.directive"
       ],
       "settings": {
-        "foreground": "#94e2d5",
-        "fontStyle": "italic"
+        "foreground": "#94e2d5"
       }
     },
     {
@@ -633,8 +626,7 @@
         "entity.name.scope-resolution.cpp"
       ],
       "settings": {
-        "foreground": "#f5e0dc",
-        "fontStyle": "italic"
+        "foreground": "#f5e0dc"
       }
     },
     {
@@ -783,8 +775,7 @@
         "markup.fenced_code.block"
       ],
       "settings": {
-        "foreground": "#a6e3a1",
-        "fontStyle": "italic"
+        "foreground": "#a6e3a1"
       }
     },
     {
@@ -1146,8 +1137,7 @@
       "name": "python function-call.generic",
       "scope": "meta.function-call.generic.python",
       "settings": {
-        "foreground": "#89b4fa",
-        "fontStyle": "italic"
+        "foreground": "#89b4fa"
       }
     },
     {
@@ -1222,8 +1212,7 @@
         "variable.function"
       ],
       "settings": {
-        "foreground": "#89b4fa",
-        "fontStyle": "italic"
+        "foreground": "#89b4fa"
       }
     },
     {
@@ -2431,8 +2420,7 @@
       "name": "python keyword import",
       "scope": "keyword.control.import.python",
       "settings": {
-        "foreground": "#94e2d5",
-        "fontStyle": "italic"
+        "foreground": "#94e2d5"
       }
     },
     {
@@ -2446,8 +2434,7 @@
       "name": "python storage type",
       "scope": "storage.type.function.python",
       "settings": {
-        "foreground": "#eba0ac",
-        "fontStyle": "italic"
+        "foreground": "#eba0ac"
       }
     },
     {
