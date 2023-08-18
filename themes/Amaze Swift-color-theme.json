@@ -115,10 +115,19 @@
       "scope": [
         "entity.name.type.struct.swift",
         "entity.name.type.class.swift",
+        "entity.name.type.enum.swift",
         "entity.name.type.swift"
       ],
       "settings": {
-        "foreground": "#75E0FF"
+        "foreground": "#f9e2af"
+      }
+    },
+    {
+      "name": "swift import statement",
+      "scope": "meta.import.swift",
+      "settings": {
+        "foreground": "#cdd6f4",
+        "fontStyle": "italic"
       }
     },
     {
